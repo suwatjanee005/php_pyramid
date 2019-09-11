@@ -1,5 +1,6 @@
 <?php include("header1.php"); ?>
 <?php include ("font_f.php");?>
+<center><h1>Pyramid35</h1></center>
 <?php
 for($fearn=0;$fearn<=4;$fearn++) {
 	echo($fearn+1);

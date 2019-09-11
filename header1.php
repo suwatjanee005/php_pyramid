@@ -168,7 +168,7 @@ function checkID(id) {
 <?php include("prm2130.php"); ?>
 <?php include("prm3136.php"); ?>
     <a href="login.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Login</a>
-     <a href="fearn_01.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">test</a>
+    
   
         
       <?php }?> 

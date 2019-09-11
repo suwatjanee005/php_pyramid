@@ -1,5 +1,7 @@
 <?php include("header1.php");?>
 <?php include ("font_f.php");?>
+<center><h1>Pyramid8</h1></center>
+
 <?php
 for($fearn=1;$fearn<=7;$fearn++) {
 	for($col=3;$col<=1+$fearn;$col++) {
@@ -16,4 +18,5 @@ for($fearn=1;$fearn<=7;$fearn++) {
 	echo "<br/>";
 }
 ?>
+
 <?php include("footer1.php"); ?>

@@ -1,5 +1,6 @@
 <?php include("header1.php"); ?>
 <?php include ("font_f.php");?>
+<center><h1>Pyramid21</h1></center>
 <?php
 for($fearn=1;$fearn<=5;$fearn++) {
 	for($col=$fearn;$col<=7;$col++){
